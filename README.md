@@ -1,4 +1,4 @@
-# Code-Master-Thesis-Pauline---Analysis-of-PFIC-data
+# Code-Master-Thesis-Pauline-Analysis-of-PFIC-data
 
 This repository consists of the R codes used in my master thesis: Retrospective analysis of PFIC data. An electronic version of this thesis is available at http://repository.tudelft.nl/. 
 
